@@ -20,7 +20,7 @@ An end-to-end deep learning project for classifying kidney tumors using transfer
 - **Experiment Tracking**: MLflow
 - **Deployment**: Docker, AWS EC2
 - **Languages**: Python
-- 
+
 ---
 
 ## Project Structure
