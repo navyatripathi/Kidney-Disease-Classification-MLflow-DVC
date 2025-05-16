@@ -1,6 +1,6 @@
 # Kidney Disease Classification 🔬
 
-An end-to-end deep learning project for classifying kidney tumors using transfer learning with VGG-16. This project integrates MLflow for experiment tracking and uses Docker for containerized deployment on AWS, delivering a scalable, secure, and cloud-ready 
+An end-to-end deep learning project for classifying kidney tumors using transfer learning with VGG-16. This project integrates MLflow for experiment tracking and uses Docker for containerized deployment on AWS, delivering a scalable, secure, and cloud-ready solution.
 
 ---
 
